@@ -1,0 +1,51 @@
+.wrap-table {
+    padding: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* background-color: antiquewhite; */
+}
+
+.table {
+
+    border-spacing: 0;
+    text-align: left;
+}
+
+.table-heading {
+    text-align: center;
+    color: #F2AA4C;
+    font-size: 40px;
+
+
+}
+
+
+
+img {
+    width: 20px;
+}
+
+
+tr th {
+    padding: 10px;
+    background-color: #F2AA4C;
+    color: white;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+tr td {
+    padding: 5px 10px 5px 10px;
+}
+
+
+
+.wrap-content {
+    /* background-color: aqua;
+    height: 500px;
+    width: 600px;
+    overflow-x: scroll;
+    overflow-y: scroll; */
+    border: 1px #F2AA4C solid;
+}
